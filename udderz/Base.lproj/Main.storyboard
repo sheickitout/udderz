@@ -71,6 +71,9 @@
                                                 <rect key="frame" x="105" y="112.5" width="204" height="53"/>
                                                 <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="37"/>
                                                 <state key="normal" title="Milk the Cow"/>
+                                                <connections>
+                                                    <action selector="playSound:" destination="BYZ-38-t0r" eventType="touchUpInside" id="TQn-mP-JfS"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                         <constraints>

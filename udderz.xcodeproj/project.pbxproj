@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8878D4F825C9C88300AD4A34 /* cowMoo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8878D4F725C9C88300AD4A34 /* cowMoo.mp3 */; };
 		88D0128525C32C1400B2D834 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D0128425C32C1400B2D834 /* AppDelegate.swift */; };
 		88D0128725C32C1400B2D834 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D0128625C32C1400B2D834 /* SceneDelegate.swift */; };
 		88D0128925C32C1400B2D834 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D0128825C32C1400B2D834 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8878D4F725C9C88300AD4A34 /* cowMoo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = cowMoo.mp3; sourceTree = "<group>"; };
 		88D0128125C32C1400B2D834 /* udderz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = udderz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		88D0128425C32C1400B2D834 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		88D0128625C32C1400B2D834 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				88D0128425C32C1400B2D834 /* AppDelegate.swift */,
 				88D0128625C32C1400B2D834 /* SceneDelegate.swift */,
 				88D0128825C32C1400B2D834 /* ViewController.swift */,
+				8878D4F725C9C88300AD4A34 /* cowMoo.mp3 */,
 				88D0128A25C32C1400B2D834 /* Main.storyboard */,
 				88D0128D25C32C1400B2D834 /* Assets.xcassets */,
 				88D0128F25C32C1400B2D834 /* LaunchScreen.storyboard */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8878D4F825C9C88300AD4A34 /* cowMoo.mp3 in Resources */,
 				88D0129125C32C1400B2D834 /* LaunchScreen.storyboard in Resources */,
 				88D0128E25C32C1400B2D834 /* Assets.xcassets in Resources */,
 				88D0128C25C32C1400B2D834 /* Main.storyboard in Resources */,
